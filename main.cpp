@@ -20,4 +20,4 @@ int main()
 	println("Los geht's...");
 	ScotlandYard::GameManager manager(answerPlayers, input, (size_t)answerRounds);
 	return 0;
-};
+}
